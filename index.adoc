@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: 這些版本資訊說明 Cloud Volumes ONTAP 9.14.0 的新功能、限制及已知問題。 
+---
+= Cloud Volumes ONTAP 9.14.0 版本資訊
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
