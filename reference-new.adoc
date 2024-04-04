@@ -22,13 +22,9 @@ Cloud Volumes ONTAP 9.14.0 包含全新增強功能。
 
 == 9.14.0 P2 （ 2024 年 4 月 1 日）
 
-所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 的 9.14.0 P2 修補程式。此修補程式僅適用於手動升級。請參閱 https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap-cloud.html#upgrade-from-bluexp-notifications["從URL提供的映像升級"]。
+所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 的 9.14.0 P2 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。
 
 link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.14.0P2["檢視 P2 修補程式中修正的錯誤清單"^] （需登入 NetApp 支援網站）。
-
-這將是此版本的最後一個修補程式。我們建議您繼續將 Cloud Volumes ONTAP 9.14.0 升級至 9.14.1 。
-
-https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html["Cloud Volumes ONTAP 9.14.1 版本資訊"^]
 
 
 
