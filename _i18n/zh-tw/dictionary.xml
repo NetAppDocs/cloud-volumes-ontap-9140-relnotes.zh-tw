@@ -720,7 +720,6 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">檢視 P2 修補程式中修正的錯誤清單</block>
   <block id="d01dcd7dd0571bc5938e104d16f1b241" category="paragraph"><block ref="35ccd464ef6dcc704dd5444888751abc" category="inline-link-macro-rx"></block> （需登入 NetApp 支援網站）。</block>
   <block id="6a9fe68abfa73dffd725487a9c628441" category="paragraph">所有雲端供應商現在都可以使用 Cloud Volumes ONTAP 的 9.14.0 P2 修補程式。BlueXP會提示您將現有系統升級至此修補程式版本。</block>
-  <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">下表所示的頻寬與每個執行個體類型的AWS記錄限制相符。這些限制並不完全符合Cloud Volumes ONTAP 本公司所能提供的功能。如需預期效能、請<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>參閱。</block>
   <block id="57bbee64b9a570cce6aed56f532a26d4" category="doc">Cloud Volumes ONTAP 9.14.0 版本資訊</block>
   <block id="c3647f40e3574e0e6f49e20c19135bfa" category="section-title">使用 Azure VM 延伸功能的限制</block>
   <block id="9d167ed7d52d81da8d83590ec3b5a4af" category="paragraph">Cloud Volumes ONTAP 不支援部署中的 Azure 虛擬機器（ VM ）延伸功能和 VM 應用程式。在 Azure 中使用 Cloud Volumes ONTAP 搭配 VM 延伸功能會導致作業延遲， NetApp 建議您避免這些延遲。</block>
@@ -728,4 +727,5 @@ HA 配對：節點中的 18 個 ^1^</block>
   <block id="f0de068c81c765820aca0fa8fe017396" category="list-text">如需 Azure 區域支援<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>、請參閱。</block>
   <block id="ef9be83cb59b0572a3581a6724316e48" category="list-text">如需 Google Cloud Platform 地區支援、請參閱<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>。</block>
   <block id="d798d4963d0ac509a1bda5483d9b9a52" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block>。</block>
+  <block id="fb83bdf454bf964031306f46d967b051" category="paragraph">下表所示的頻寬與每種執行個體類型的 AWS 文件化限制相符。這些限制與 Cloud Volumes ONTAP 所能提供的效能並不完全一致。有關預期效能，請參閱<block ref="f9e25e1e3616de01564541c204317f8f" category="inline-link-rx"></block>。</block>
 </blocks>
